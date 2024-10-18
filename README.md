@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on **Web3 Multichain DApps**
 - 🌱 I’m currently learning **MOTOKO & RUST**
-- 👯 I’m looking to collaborate on **Full Stack Web3 DApps**
-- 💬 Ask me about **THE BLOCKCHAIN**
+- 👯 I’m looking to collaborate on **Multichain Web3 DApps**
+- 💬 Ask me about * Solving Problems with groundbreaking technologies*
 - 📫 How to reach me: **antonydotdev@gmail.com**
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: *I Love Innovating on web3*
+- ⚡ Fun fact: *I Love **BUIDLing** on web3*
 
 
 
